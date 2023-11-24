@@ -27,20 +27,20 @@ if __name__ == "__main__":
     crawford = ["Adam", "Ben", "Criss", "Debbie", "Grammy", "Josh"]
     etcheverry_modesto = ["Mike", "Rose"]
     etcheverry_texas = ["Larry"]
-    hanson_elderado_hills = ["Chris", "Kathy"]
-    hanson_los_angels = ["Anna", "Brian"]
+    hanson_el_dorado_hills = ["Chris", "Kathy"]
+    hanson_los_angeles = ["Anna", "Brian"]
     hanson_sacramento = ["Kevin", "Sasha"]
-    hanson_sj = ["Matt", "Rachel"]
+    hanson_san_jose = ["Matt", "Rachel"]
     mccarty = ["Abe", "Bill", "Elizabeth"]
 
     family = (
         crawford
         + etcheverry_modesto
         + etcheverry_texas
-        + hanson_elderado_hills
-        + hanson_los_angels
+        + hanson_el_dorado_hills
+        + hanson_los_angeles
         + hanson_sacramento
-        + hanson_sj
+        + hanson_san_jose
         + mccarty
     )
 
